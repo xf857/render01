@@ -21,7 +21,7 @@
                       "dest":3001
                   },
                   {
-                      "path":"/a469eb0d-da45-4229-9651-3a0d4eb2cf2d",
+                      "path":"/vless",
                       "dest":3002
                   },
                   {
@@ -29,11 +29,11 @@
                       "dest":3003
                   },
                   {
-                      "path":"/a469eb0d-da45-4229-9651-3a0d4eb2cf2d",
+                      "path":"/trojan",
                       "dest":3004
                   },
                   {
-                      "path":"/a469eb0d-da45-4229-9651-3a0d4eb2cf2d",
+                      "path":"/shadowsocks",
                       "dest":3005
                   }
               ]
@@ -77,7 +77,7 @@
               "network":"ws",
               "security":"none",
               "wsSettings":{
-                  "path":"/a469eb0d-da45-4229-9651-3a0d4eb2cf2d"
+                  "path":"/vless"
               }
           },
           "sniffing":{
@@ -133,7 +133,7 @@
               "network":"ws",
               "security":"none",
               "wsSettings":{
-                  "path":"/a469eb0d-da45-4229-9651-3a0d4eb2cf2d"
+                  "path":"/trojan"
               }
           },
           "sniffing":{
@@ -162,7 +162,7 @@
           "streamSettings":{
               "network":"ws",
               "wsSettings":{
-                  "path":"/a469eb0d-da45-4229-9651-3a0d4eb2cf2d"
+                  "path":"/shadowsocks"
               }
           },
           "sniffing":{
